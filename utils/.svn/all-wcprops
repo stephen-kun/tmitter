@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/112/trunk/utils
+END
+mailer.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/20/trunk/utils/mailer.py
+END
+uploader.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/87/trunk/utils/uploader.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/19/trunk/utils/__init__.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/87/trunk/utils/formatter.py
+END
+function.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/112/trunk/utils/function.py
+END

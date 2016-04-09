@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/87/trunk/templates/control
+END
+userslist_pagebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/87/trunk/templates/control/userslist_pagebar.html
+END
+user_pagebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/50/trunk/templates/control/user_pagebar.html
+END
+home_pagebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/50/trunk/templates/control/home_pagebar.html
+END

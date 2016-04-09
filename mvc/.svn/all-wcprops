@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/112/trunk/mvc
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/112/trunk/mvc/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/mvc/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/100/trunk/mvc/models.py
+END
+feed.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/79/trunk/mvc/feed.py
+END
